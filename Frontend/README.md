@@ -1,6 +1,9 @@
 # Frontend
 
-This project is a simple todo list item
+This project is a simple todo list app
+A list of todos is displayed on initial render if a list
+is returned from the backend, else, it displays a table
+with no rows.
 You can add a todo item along with it's description
 The list of todos is refreshed every item a todo item is listed
 
