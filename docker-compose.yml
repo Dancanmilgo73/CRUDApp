@@ -1,12 +1,12 @@
 version: '3.4'
 services:
   frontend:
-    build: Frontend/
+    image: dancanngetich/frontend
     ports:
       - 4000:80
     depends_on: 
       - backend  
   backend:
-    build: Backend/
+    image: dancanngetich/backend
     ports:
       - "7100:8080"  
