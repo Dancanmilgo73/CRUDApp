@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Assessment\\Backend\\",
+  "WorkspaceRootPath": "D:\\Assessment\\CRUDApp\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\backend\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\crudapp\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\crudapp\\backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\crudapp\\backend\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|solutionrelative:dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\backend\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\crudapp\\backend\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\backend\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\crudapp\\backend\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|solutionrelative:services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\backend\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\crudapp\\backend\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|solutionrelative:interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\backend\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\crudapp\\backend\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|d:\\assessment\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9072CD-1402-4E2F-965D-5553EA66EB0B}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +38,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Assessment\\CRUDApp\\Backend\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\Assessment\\CRUDApp\\Backend\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-16T05:39:50.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ITodoService.cs",
-              "DocumentMoniker": "D:\\Assessment\\Backend\\Interfaces\\ITodoService.cs",
+              "DocumentMoniker": "D:\\Assessment\\CRUDApp\\Backend\\Interfaces\\ITodoService.cs",
               "RelativeDocumentMoniker": "Interfaces\\ITodoService.cs",
-              "ToolTip": "D:\\Assessment\\Backend\\Interfaces\\ITodoService.cs",
+              "ToolTip": "D:\\Assessment\\CRUDApp\\Backend\\Interfaces\\ITodoService.cs",
               "RelativeToolTip": "Interfaces\\ITodoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,11 +67,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Todo.cs",
-              "DocumentMoniker": "D:\\Assessment\\Backend\\Models\\Todo.cs",
+              "DocumentMoniker": "D:\\Assessment\\CRUDApp\\Backend\\Models\\Todo.cs",
               "RelativeDocumentMoniker": "Models\\Todo.cs",
-              "ToolTip": "D:\\Assessment\\Backend\\Models\\Todo.cs",
+              "ToolTip": "D:\\Assessment\\CRUDApp\\Backend\\Models\\Todo.cs",
               "RelativeToolTip": "Models\\Todo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,36 +79,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "TodoDto.cs",
-              "DocumentMoniker": "D:\\Assessment\\Backend\\Dtos\\TodoDto.cs",
+              "DocumentMoniker": "D:\\Assessment\\CRUDApp\\Backend\\Dtos\\TodoDto.cs",
               "RelativeDocumentMoniker": "Dtos\\TodoDto.cs",
-              "ToolTip": "D:\\Assessment\\Backend\\Dtos\\TodoDto.cs",
+              "ToolTip": "D:\\Assessment\\CRUDApp\\Backend\\Dtos\\TodoDto.cs",
               "RelativeToolTip": "Dtos\\TodoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T02:43:47.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Assessment\\Backend\\Program.cs",
+              "DocumentMoniker": "D:\\Assessment\\CRUDApp\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Assessment\\Backend\\Program.cs",
+              "ToolTip": "D:\\Assessment\\CRUDApp\\Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T21:11:48.177Z"
+              "WhenOpened": "2024-04-24T21:11:48.177Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TodoService.cs",
-              "DocumentMoniker": "D:\\Assessment\\Backend\\Services\\TodoService.cs",
+              "DocumentMoniker": "D:\\Assessment\\CRUDApp\\Backend\\Services\\TodoService.cs",
               "RelativeDocumentMoniker": "Services\\TodoService.cs",
-              "ToolTip": "D:\\Assessment\\Backend\\Services\\TodoService.cs",
+              "ToolTip": "D:\\Assessment\\CRUDApp\\Backend\\Services\\TodoService.cs",
               "RelativeToolTip": "Services\\TodoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -99,11 +117,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TodoController.cs",
-              "DocumentMoniker": "D:\\Assessment\\Backend\\Controllers\\TodoController.cs",
+              "DocumentMoniker": "D:\\Assessment\\CRUDApp\\Backend\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "Controllers\\TodoController.cs",
-              "ToolTip": "D:\\Assessment\\Backend\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\Assessment\\CRUDApp\\Backend\\Controllers\\TodoController.cs",
               "RelativeToolTip": "Controllers\\TodoController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAAAoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

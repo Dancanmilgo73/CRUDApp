@@ -7,7 +7,7 @@ import { HttpClient } from '@angular/common/http';
   providedIn: 'root'
 })
 export class TodoService {
-  private apiUrl = 'https://localhost:7164/api';
+  private apiUrl = 'http://localhost:7100/api';
 
   constructor(private http: HttpClient) { }
 

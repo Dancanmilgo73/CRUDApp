@@ -1,0 +1,12 @@
+version: '3.4'
+services:
+  frontend:
+    build: Frontend/
+    ports:
+      - 4000:80
+    depends_on: 
+      - backend  
+  backend:
+    build: Backend/
+    ports:
+      - "7100:8080"  
