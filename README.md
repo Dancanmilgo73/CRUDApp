@@ -1,8 +1,9 @@
 # Running the app on docker
 Make sure docker is running on your machine
+Clone the application to your local machine
 Navigate to the root folder where the `docker-compose.yml` file is located
 Run the command `docker-compose up`
-This will build images and run the containers
+This will pull images and run the containers
 
 You should be able to access the frontend on port 4000
 # Frontend
@@ -19,4 +20,3 @@ The title of the todo item is a required field and you can't submit
 a todo without a title
 
 `Calculate Factorials` only responds if there exists a list of todo items
-
